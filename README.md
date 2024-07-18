@@ -1,6 +1,7 @@
 # Egyptian-Party
 
 This project has been an incredible opportunity for me to apply and refine my skills in JavaScript, HTML, and CSS, particularly focusing on JS animations and jQuery traversing. 🎮🎉
+
 Highlights of my project:
 
 - Interactive Navigation: Utilized jQuery for smooth sliding menu transitions.
